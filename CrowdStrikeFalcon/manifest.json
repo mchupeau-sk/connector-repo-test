@@ -1,6 +1,6 @@
 {
-  "uuid": "4fdbae70-e9cd-492e-9a39-24ce99325e3f",
-  "name": "CrowdStrike Falcon",
+  "uuid": "e3a2f7c2-1b5e-4c9a-8e2a-9d6b7f8c3a1e",
+  "name": "CrowdStrike Falcon V2",
   "slug": "crowdstrike-falcon",
   "description": "CrowdStrike Falcon is a cloud-native cybersecurity platform known for its advanced threat detection, endpoint protection, and real-time response capabilities. It leverages AI and machine learning to protect against malware and sophisticated cyberattacks.",
   "version": "1.23.0",
